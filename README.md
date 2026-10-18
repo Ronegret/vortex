@@ -1,11 +1,11 @@
 # vortex
 
-Vortex Immersive — interactive 3D WebGL experiment running at 60 fps.
+**Arcade Game** — a portal of competitive precision & reflex mini-games.
 
 🌐 **Live:** https://vortex.rodd.es · 📄 [Portfolio](https://www.rodrigonegrete.es)
 
 ## 🛠️ Tech
-WebGL · Three.js · JavaScript
+`HTML` · `CSS` · `JavaScript`
 
 ## 👤 Author
 **Rodrigo Negrete** — AI Product Designer & Automation Architect
